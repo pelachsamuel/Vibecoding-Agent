@@ -1,0 +1,18 @@
+# Security - API keys
+.env
+
+# Python compilation files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Package manager locks
+uv.lock
