@@ -16,3 +16,6 @@ env/
 
 # Package manager locks
 uv.lock
+
+# Ignore Mac OS X system files
+.DS_Store
